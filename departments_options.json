@@ -1,44 +1,44 @@
 {
-	"departments": [
-		{
-			"idDepartamento": 1,
-			"nombreDelDepartamento": "PMO"
-		},
-		{
-			"idDepartamento": 2,
-			"nombreDelDepartamento": "Desarrollo"
-		},
-		{
-			"idDepartamento": 3,
-			"nombreDelDepartamento": "Mercadotecnia y Diseño"
-		},
-		{
-			"idDepartamento": 4,
-			"nombreDelDepartamento": "Comercial"
-		},
-		{
-			"idDepartamento": 5,
-			"nombreDelDepartamento": "Operaciones"
-		},
-		{
-			"idDepartamento": 6,
-			"nombreDelDepartamento": "Finanzas"
-		},
-		{
-			"idDepartamento": 7,
-			"nombreDelDepartamento": "Recursos Humanos"
-		},
-		{
-			"idDepartamento": 8,
-			"nombreDelDepartamento": "Académico"
-		},
-		{
-			"idDepartamento": 9,
-			"nombreDelDepartamento": "Dirección General"
-		},
-		{
-			"idDepartamento": 10,
-			"nombreDelDepartamento": "Informática"
-		}
-	]
+  "departments": [
+    {
+      "id": "1",
+      "descripcion": "PMO"
+    },
+    {
+      "id": "2",
+      "descripcion": "Desarrollo"
+    },
+    {
+      "id": "3",
+      "descripcion": "Mercadotecnia y Diseño"
+    },
+    {
+      "id": "4",
+      "descripcion": "Comercial"
+    },
+    {
+      "id": "5",
+      "descripcion": "Operaciones"
+    },
+    {
+      "id": "6",
+      "descripcion": "Finanzas"
+    },
+    {
+      "id": "7",
+      "descripcion": "Recursos Humanos"
+    },
+    {
+      "id": "8",
+      "descripcion": "Académico"
+    },
+    {
+      "id": "9",
+      "descripcion": "Dirección General"
+    },
+    {
+      "id": "10",
+      "descripcion": "Informática"
+    }
+  ]
 }
