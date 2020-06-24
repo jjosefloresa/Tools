@@ -39,6 +39,9 @@
     {
       "id": "10",
       "descripcion": "Informática"
-    }
+    },
+    {
+      "id" : "11",
+      "descripcion" : "Otro departamento"
   ]
 }
