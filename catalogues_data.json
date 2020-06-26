@@ -3,32 +3,32 @@
         {
             "id": "1",
             "name": "1A",
-            "descripcion": "Grupo Primero A"
+            "description": "Grupo Primero A"
         },
         {
             "id": "2",
             "name": "1B",
-            "descripcion": "Grupo Primero B"
+            "description": "Grupo Primero B"
         },
         {
             "id": "3",
             "name": "2A",
-            "descripcion": "Grupo Segundo A"
+            "description": "Grupo Segundo A"
         },
         {
             "id": "4",
             "name": "2B",
-            "descripcion": "Grupo Segundo B"
+            "description": "Grupo Segundo B"
         },
         {
             "id": "5",
             "name": "1B",
-            "descripcion": "Grupo Tercero A"
+            "description": "Grupo Tercero A"
         },
         {
             "id": "6",
             "name": "3B",
-            "descripcion": "Grupo Tercero B"
+            "description": "Grupo Tercero B"
         }
     ]
 }
