@@ -2,27 +2,33 @@
     "groups": [
         {
             "id": "1",
-            "descripcion": "1A"
+            "name": "1A"
+            "descripcion": "Grupo Primero A"
         },
         {
             "id": "2",
-            "descripcion": "1B"
+            "name": "1B",
+            "descripcion": "Grupo Primero B"
         },
         {
             "id": "3",
-            "descripcion": "2A"
+            "name": "2A",
+            "descripcion": "Grupo Segundo A"
         },
         {
             "id": "4",
-            "descripcion": "2B"
+            "name": "2B",
+            "descripcion": "Grupo Segundo B"
         },
         {
             "id": "5",
-            "descripcion": "3A"
+            "name": "1B",
+            "descripcion": "Grupo Tercero A"
         },
         {
             "id": "6",
-            "descripcion": "3B"
+            "name": "3B",
+            "descripcion": "Grupo Tercero B"
         }
     ]
 }
