@@ -1,0 +1,28 @@
+{
+    "groups": [
+        {
+            "id": "1",
+            "descripcion": "1A"
+        },
+        {
+            "id": "2",
+            "descripcion": "1B"
+        },
+        {
+            "id": "3",
+            "descripcion": "2A"
+        },
+        {
+            "id": "4",
+            "descripcion": "2B"
+        },
+        {
+            "id": "5",
+            "descripcion": "3A"
+        },
+        {
+            "id": "6",
+            "descripcion": "3B"
+        }
+    ]
+}
