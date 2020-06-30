@@ -1,16 +1,16 @@
 {
-	"tareas" : [
+	"tasks" : [
 {
 	"id" : "1",
 	"name" : "Reportaje",
 	"description": "Elaborar reportaje que trate sobre la educación",
-	"grupo" : "1"
+	"group" : "1"
 },
 {
 	"id" : "2",
 	"name" : "Cómic",
 	"description": "Elaborar un cómic sobre la Pandemia",
-	"grupo" : "1"
+	"group" : "1"
 },
 	]
 }
