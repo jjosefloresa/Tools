@@ -4,19 +4,22 @@
 	"id" : "1",
 	"name" : "Reportaje",
 	"description": "Elaborar reportaje que trate sobre la educación",
-	"group" : "1"
+	"group" : "1",
+	"completed" : "100"
 },
 {
 	"id" : "2",
 	"name" : "Cómic",
 	"description": "Elaborar un cómic sobre la Pandemia",
-	"group" : "1"
+	"group" : "1",
+	"completed" : "80"
 },
 {
 	"id" : "3",
 	"name" : "Cuento",
 	"description": "Elaborar un cuento sobre su vida",
-	"group" : "1"
+	"group" : "1",
+	"completed" : "10"
 }
 	]
 }
