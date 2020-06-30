@@ -11,6 +11,12 @@
 	"name" : "Cómic",
 	"description": "Elaborar un cómic sobre la Pandemia",
 	"group" : "1"
+},
+{
+	"id" : "3",
+	"name" : "Cuento",
+	"description": "Elaborar un cuento sobre su vida",
+	"group" : "1"
 }
 	]
 }
