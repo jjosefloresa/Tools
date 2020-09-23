@@ -1,0 +1,29 @@
+{
+	cards: [
+		{
+			"id": 1,
+			"name": "Java",
+			"front": "Java",
+			"back": "Oracle"
+			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 2,
+			"name": "Dart",
+			"front": "Dart",
+			"back": "Google"
+			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 3,
+			"name": "Swift",
+			"front": "Swift",
+			"back": "Apple"
+			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
+			"backImage": ""
+		}
+
+	]
+}
