@@ -23,7 +23,111 @@
 			"back": "Apple"
 			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
 			"backImage": ""
-		}
+		},
+		{
+			"id": 4,
+			"name": "Java",
+			"front": "Java",
+			"back": "Oracle"
+			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 5,
+			"name": "Dart",
+			"front": "Dart",
+			"back": "Google"
+			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 6,
+			"name": "Swift",
+			"front": "Swift",
+			"back": "Apple"
+			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
+			"backImage": ""
+		},
+		{
+			"id": 7,
+			"name": "Java",
+			"front": "Java",
+			"back": "Oracle"
+			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 8,
+			"name": "Dart",
+			"front": "Dart",
+			"back": "Google"
+			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 9,
+			"name": "Swift",
+			"front": "Swift",
+			"back": "Apple"
+			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
+			"backImage": ""
+		},
+		{
+			"id": 10,
+			"name": "Java",
+			"front": "Java",
+			"back": "Oracle"
+			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 11,
+			"name": "Dart",
+			"front": "Dart",
+			"back": "Google"
+			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 12,
+			"name": "Swift",
+			"front": "Swift",
+			"back": "Apple"
+			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
+			"backImage": ""
+		},
+		{
+			"id": 13,
+			"name": "Java",
+			"front": "Java",
+			"back": "Oracle"
+			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 14,
+			"name": "Dart",
+			"front": "Dart",
+			"back": "Google"
+			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
+			"backImage": "Lenguaje de Oracle"
+		},
+		{
+			"id": 15,
+			"name": "Swift",
+			"front": "Swift",
+			"back": "Apple"
+			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
+			"backImage": ""
+		},
+		{
+			"id": 16,
+			"name": "Java",
+			"front": "Java",
+			"back": "Oracle"
+			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
+			"backImage": "Lenguaje de Oracle"
+		},
 
 	]
 }
