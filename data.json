@@ -4,130 +4,129 @@
 			"id": 1,
 			"name": "Java",
 			"front": "Java",
-			"back": "Oracle"
-			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
-			"backImage": "Lenguaje de Oracle"
+			"back": "Oracle",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-java.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-java.png"
 		},
 		{
 			"id": 2,
 			"name": "Dart",
 			"front": "Dart",
-			"back": "Google"
+			"back": "Google",
 			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
-			"backImage": "Lenguaje de Oracle"
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-dart.png"
 		},
 		{
 			"id": 3,
 			"name": "Swift",
 			"front": "Swift",
-			"back": "Apple"
-			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
-			"backImage": ""
+			"back": "Apple",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-swift.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-swift.png"
 		},
 		{
 			"id": 4,
 			"name": "Java",
 			"front": "Java",
-			"back": "Oracle"
-			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
-			"backImage": "Lenguaje de Oracle"
+			"back": "Oracle",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-java.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-java.png"
 		},
 		{
 			"id": 5,
 			"name": "Dart",
 			"front": "Dart",
-			"back": "Google"
+			"back": "Google",
 			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
-			"backImage": "Lenguaje de Oracle"
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-dart.png"
 		},
 		{
 			"id": 6,
 			"name": "Swift",
 			"front": "Swift",
-			"back": "Apple"
-			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
-			"backImage": ""
+			"back": "Apple",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-swift.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-swift.png"
 		},
 		{
 			"id": 7,
 			"name": "Java",
 			"front": "Java",
-			"back": "Oracle"
-			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
-			"backImage": "Lenguaje de Oracle"
+			"back": "Oracle",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-java.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-java.png"
 		},
 		{
 			"id": 8,
 			"name": "Dart",
 			"front": "Dart",
-			"back": "Google"
+			"back": "Google",
 			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
-			"backImage": "Lenguaje de Oracle"
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-dart.png"
 		},
 		{
 			"id": 9,
 			"name": "Swift",
 			"front": "Swift",
-			"back": "Apple"
-			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
-			"backImage": ""
+			"back": "Apple",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-swift.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-swift.png"
 		},
 		{
 			"id": 10,
 			"name": "Java",
 			"front": "Java",
-			"back": "Oracle"
-			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
-			"backImage": "Lenguaje de Oracle"
+			"back": "Oracle",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-java.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-java.png"
 		},
 		{
 			"id": 11,
 			"name": "Dart",
 			"front": "Dart",
-			"back": "Google"
+			"back": "Google",
 			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
-			"backImage": "Lenguaje de Oracle"
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-dart.png"
 		},
 		{
 			"id": 12,
 			"name": "Swift",
 			"front": "Swift",
-			"back": "Apple"
-			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
-			"backImage": ""
+			"back": "Apple",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-swift.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-swift.png"
 		},
 		{
 			"id": 13,
 			"name": "Java",
 			"front": "Java",
-			"back": "Oracle"
-			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
-			"backImage": "Lenguaje de Oracle"
+			"back": "Oracle",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-java.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-java.png"
 		},
 		{
 			"id": 14,
 			"name": "Dart",
 			"front": "Dart",
-			"back": "Google"
+			"back": "Google",
 			"frontImage": "https://www.dropbox.com/s/c43bw087zfjzp71/logo-dart.png",
-			"backImage": "Lenguaje de Oracle"
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-dart.png"
 		},
 		{
 			"id": 15,
 			"name": "Swift",
 			"front": "Swift",
-			"back": "Apple"
-			"frontImage": "https://www.dropbox.com/s/l3fzey8ktycv8h2/logo-swift.png",
-			"backImage": ""
+			"back": "Apple",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-swift.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-swift.png"
 		},
 		{
 			"id": 16,
 			"name": "Java",
 			"front": "Java",
-			"back": "Oracle"
-			"frontImage": "https://www.dropbox.com/s/3xa67wkknpdpfe6/logo-java.png",
-			"backImage": "Lenguaje de Oracle"
-		},
-
+			"back": "Oracle",
+			"frontImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/logo-java.png",
+			"backImage": "https://raw.githubusercontent.com/jjosefloresa/Tools/master/company-java.png"
+		}
 	]
 }
